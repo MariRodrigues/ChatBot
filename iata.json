@@ -1,0 +1,1040 @@
+﻿{
+    "Aeroportos": [
+        {
+            "Continente": "Europa",
+            "País": "Grécia",
+            "Localização": "Atenas",
+            "Nome": "Aeroporto Internacional Eleftherios Venizelos - Atenas, Grécia (ATH)",
+            "IATA": "ATH"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Turquia",
+            "Localização": "Istambul",
+            "Nome": "Aeroporto Internacional Ataturk - Istambul, Turquia (IST)",
+            "IATA": "IST"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Croácia",
+            "Localização": "Zagreb",
+            "Nome": "Aeroporto Internacional Pleso - Zagreb, Croácia (ZAG)",
+            "IATA": "ZAG"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Bósnia",
+            "Localização": "Sarajevo",
+            "Nome": "Aeroporto Internacional Butmir - Sarajevo, Bósnia (SJJ)",
+            "IATA": "SJJ"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Sérvia",
+            "Localização": "Belgrado",
+            "Nome": "Aeroporto Internacional de Belgrado - Belgrado, Sérvia (BEG)",
+            "IATA": "BEG"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Ucrânia",
+            "Localização": "Kiev",
+            "Nome": "Aeroporto Internacional de Kiev-Boryspil - Kiev, Ucrânia (KBP)",
+            "IATA": "KBP"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Bulgária",
+            "Localização": "Sófia",
+            "Nome": "Aeroporto Internacional Vrazhdebna - Sófia, Bulgária (SOF)",
+            "IATA": "SOF"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Romênia",
+            "Localização": "Bucareste",
+            "Nome": "Aeroporto Internacional Otopeni - Bucareste, Romênia (OTP)",
+            "IATA": "OTP"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Hungria",
+            "Localização": "Budapeste",
+            "Nome": "Aeroporto de Budapeste Ferenc Liszt - Budapeste, Hungria (BUD)",
+            "IATA": "BUD"
+        },
+        {
+            "Continente": "Europa",
+            "País": "República Tcheca",
+            "Localização": "Praga",
+            "Nome": "Aeroporto Internacional Ruzyne - Praga, República Tcheca (PRG)",
+            "IATA": "PRG"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Alemanha",
+            "Localização": "Berlim",
+            "Nome": "Aeroporto Berlin-Tegel",
+            "IATA": "TXL"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Alemanha",
+            "Localização": "Frankfurt",
+            "Nome": "Aeroporto Internacional de Frankfurt",
+            "IATA": "FRA"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Alemanha",
+            "Localização": "Munique",
+            "Nome": "Aeroporto de Munique-Franz Josef Strauss",
+            "IATA": "MUC"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Áustria",
+            "Localização": "Viena",
+            "Nome": "Aeroporto Internacional de Viena",
+            "IATA": "VIE"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Suíça",
+            "Localização": "Zurique",
+            "Nome": "Aeroporto de Zurique",
+            "IATA": "ZRH"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Suíça",
+            "Localização": "Genebra",
+            "Nome": "Aeroporto Cointrin",
+            "IATA": "GVA"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Itália",
+            "Localização": "Milão",
+            "Nome": "Aeroporto Internacional de Milão-Malpensa (MXP)",
+            "IATA": "MXP"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Itália",
+            "Localização": "Milão",
+            "Nome": "Aeroporto Linate (LIN)",
+            "IATA": "LIN"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Itália",
+            "Localização": "Roma",
+            "Nome": "Aeroporto Internacional Fiumicino",
+            "IATA": "FCO"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Itália",
+            "Localização": "Roma",
+            "Nome": "Aeroporto de Roma Ciampino",
+            "IATA": "CIA"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Itália",
+            "Localização": "Veneza",
+            "Nome": "Aeroporto Marco Polo",
+            "IATA": "VCE"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Itália",
+            "Localização": "Florença",
+            "Nome": "Aeroporto Peretola",
+            "IATA": "FLR"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Polónia",
+            "Localização": "Varsóvia",
+            "Nome": "Aeroporto Internacional Okęcie",
+            "IATA": "WAW"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Reino Unido",
+            "Localização": "Londres",
+            "Nome": "Aeroporto Internacional de Heathrow",
+            "IATA": "LHR"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Reino Unido",
+            "Localização": "Londres",
+            "Nome": "Aeroporto Internacional Gatwick",
+            "IATA": "LGW"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Irlanda",
+            "Localização": "Dublin",
+            "Nome": "Aeroporto Internacional de Dublin",
+            "IATA": "DUB"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Dinamarca",
+            "Localização": "Copenhague",
+            "Nome": "Aeroporto Internacional de Copenhague",
+            "IATA": "CPH"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Suécia",
+            "Localização": "Estocolmo",
+            "Nome": "Aeroporto Internacional Arlanda",
+            "IATA": "ARN"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Noruega",
+            "Localização": "Oslo",
+            "Nome": "Aeroporto de Oslo",
+            "IATA": "OSL"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Finlândia",
+            "Localização": "Helsinki",
+            "Nome": "Aeroporto Internacional Vantaa",
+            "IATA": "HEL"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Rússia",
+            "Localização": "Moscou",
+            "Nome": "Aeroporto Internacional Sheremetyevo",
+            "IATA": "SVO"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Moldávia",
+            "Localização": "Chişinău",
+            "Nome": "Aeroporto Internacional de Chişinău",
+            "IATA": "AIM"
+        },
+        {
+            "Continente": "Europa",
+            "País": "França",
+            "Localização": "Paris",
+            "Nome": "Aeroporto Internacional de Orly",
+            "IATA": "ORY"
+        },
+        {
+            "Continente": "Europa",
+            "País": "França",
+            "Localização": "Paris",
+            "Nome": "Aeroporto Internacional Charles de Gaulle",
+            "IATA": "CDG"
+        },
+        {
+            "Continente": "Europa",
+            "País": "França",
+            "Localização": "Toulouse",
+            "Nome": "Aeroporto Internacional de Toulouse-Blagnac",
+            "IATA": "TLS"
+        },
+        {
+            "Continente": "Europa",
+            "País": "França",
+            "Localização": "Lyon",
+            "Nome": "Aeroporto Internacional de Lyon",
+            "IATA": "LYS"
+        },
+        {
+            "Continente": "Europa",
+            "País": "França",
+            "Localização": "Estrasburgo",
+            "Nome": "Aeroporto Internacional de Strasbourg Entzheim",
+            "IATA": "SXB"
+        },
+        {
+            "Continente": "Europa",
+            "País": "França",
+            "Localização": "Nice",
+            "Nome": "Aeroporto Internacional de Nice-Côte d'Azur",
+            "IATA": "NCE"
+        },
+        {
+            "Continente": "Europa",
+            "País": "França",
+            "Localização": "Marselha",
+            "Nome": "Aeroporto Internacional de Marseille-Provence",
+            "IATA": "MRS"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Suíça/França/Alemanha",
+            "Localização": "Basileia/ Mulhouse/ Friburgo",
+            "Nome": "Euro-Aeroporto de Basel",
+            "IATA": "BSL, MLH, EAP"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Bélgica",
+            "Localização": "Bruxelas",
+            "Nome": "Aeroporto Internacional de Bruxelas",
+            "IATA": "BRU"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Bélgica",
+            "Localização": "Liège",
+            "Nome": "Aeroporto Internacional de Liège",
+            "IATA": "LGG"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Bélgica",
+            "Localização": "Antuérpia",
+            "Nome": "Aeroporto Internacional de Antuérpia",
+            "IATA": "ANR"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Amsterdã (Países Baixos)",
+            "Localização": "Amesterdão",
+            "Nome": "Aeroporto Internacional de Amsterdão Schiphol",
+            "IATA": "AMS"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Países Baixos",
+            "Localização": "Eindhoven",
+            "Nome": "Aeroporto Internacional de Eindhoven",
+            "IATA": "EIN"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Países Baixos",
+            "Localização": "Roterdão",
+            "Nome": "Aeroporto Internacional de Roderdã-Haia",
+            "IATA": "RTM"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Portugal",
+            "Localização": "Lisboa",
+            "Nome": "Aeroporto Internacional Humberto Delgado - Lisboa, Portugal (LIS)",
+            "IATA": "LIS"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Portugal",
+            "Localização": "Porto",
+            "Nome": "Aeroporto Internacional Francisco Sá Carneiro - Porto, Portugal (OPO)",
+            "IATA": "OPO"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Portugal",
+            "Localização": "Madeira",
+            "Nome": "Aeroporto Internacional da Madeira Cristiano Ronaldo, Madeira, Portugal (FNC)",
+            "IATA": "FNC"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Portugal",
+            "Localização": "Faro, Algarve",
+            "Nome": "Aeroporto Internacional de Faro - Faro, Algarve, Portugal (FAO)",
+            "IATA": "FAO"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Portugal",
+            "Localização": "Ponta Delgada, Açores",
+            "Nome": "Aeroporto Internacional João Paulo II - Ponta Delgada, Açores, Portugal (PDL)",
+            "IATA": "PDL"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Portugal",
+            "Localização": "Lajes (Praia da Vitória), Açores",
+            "Nome": "Aeroporto Internacional das Lajes - Lajes (Praia da Vitória), Açores, Portugal (TER)",
+            "IATA": "TER"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Espanha",
+            "Localização": "Madrid",
+            "Nome": "Aeroporto Internacional Adolfo Suárez-Barajas - Madrid, Espanha (MAD)",
+            "IATA": "MAD"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Espanha",
+            "Localização": "Barcelona",
+            "Nome": "Aeroporto Internacional de Barcelona - Barcelona, Espanha (BCN)",
+            "IATA": "BCN"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Espanha",
+            "Localização": "Palma de Maiorca, Baleares",
+            "Nome": "Aeroporto Internacional de Palma de Maiorca-Son Sant Joan - Palma de Maiorca, Baleares, Espanha (PMI)",
+            "IATA": "PMI"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Espanha",
+            "Localização": "Las Palmas, Gran Canária",
+            "Nome": "Aeroporto Internacional de Gran Canária - Las Palmas, Gran Canária, Espanha (LPA)",
+            "IATA": "LPA"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Espanha",
+            "Localização": "Sevilha, Andaluzia",
+            "Nome": "Aeroporto Internacional de Sevilha - Sevilha, Andaluzia, Espanha (SVQ)",
+            "IATA": "SVQ"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Espanha",
+            "Localização": "Málaga, Andaluzia",
+            "Nome": "Aeroporto de Málaga-Costa del Sol - Málaga, Andaluzia, Espanha (AGP)",
+            "IATA": "AGP"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Espanha",
+            "Localização": "Tenerife, Canárias",
+            "Nome": "Aeroporto Internacional de Tenerife - Tenerife, Canárias, Espanha (TFN)",
+            "IATA": "TFN"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Espanha",
+            "Localização": "Valência, Valenciana",
+            "Nome": "Aeroporto Internacional de Manises - Valência, Valenciana, Espanha (VLC)",
+            "IATA": "VLC"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Espanha",
+            "Localização": "Ibiza, Baleares",
+            "Nome": "Aeroporto Internacional de Ibiza - Ibiza, Baleares, Espanha (IBZ)",
+            "IATA": "IBZ"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Espanha",
+            "Localização": "Santiago de Compostela, Galiza",
+            "Nome": "Aeroporto Internacional de Santiago de Compostela - Santiago de Compostela, Galiza, Espanha (SCQ)",
+            "IATA": "SCQ"
+        },
+        {
+            "Continente": "Europa",
+            "País": "Portugal",
+            "Localização": "Ilha de Santa Maria, Açores",
+            "Nome": "Aeroporto Internacional de Santa Maria - Ilha de Santa Maria, Açores, Portugal (SMA)",
+            "IATA": "SMA"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Antilhas Holandesas",
+            "Localização": "Philipsburg",
+            "Nome": "Aeroporto Internacional Princesa Juliana",
+            "IATA": "SXM"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Antilhas Holandesas",
+            "Localização": "Willemstad",
+            "Nome": "Aeroporto Internacional Hato",
+            "IATA": "CUR"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Aruba",
+            "Localização": "Oranjestad",
+            "Nome": "Aeroporto Internacional Rainha Beatriz",
+            "IATA": "AUA"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Costa Rica",
+            "Localização": "San Jose",
+            "Nome": "Aeropuerto Internacional Juan Santamaría",
+            "IATA": "SJO"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Cuba",
+            "Localização": "Havana",
+            "Nome": "Aeroporto Internacional José Martí",
+            "IATA": "HAV"
+        },
+        {
+            "Continente": "América Central",
+            "País": "El Salvador",
+            "Localização": "San Salvador",
+            "Nome": "Aeroporto Internacional de El Salvador",
+            "IATA": "SAL"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Guadalupe",
+            "Localização": "Basse-Terre",
+            "Nome": "Aeroporto Internacional Robert L. Bradshaw",
+            "IATA": "SKB"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Guatemala",
+            "Localização": "Cidade da Guatemala",
+            "Nome": "Aeroporto Internacional La Aurora",
+            "IATA": "GUA"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Jamaica",
+            "Localização": "Kingston",
+            "Nome": "Aeroporto Internacional Norman Manley",
+            "IATA": "KIN"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Jamaica",
+            "Localização": "Montego Bay",
+            "Nome": "Aeroporto Internacional Sangster",
+            "IATA": "MBJ"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Martinica",
+            "Localização": "Fort-de-France",
+            "Nome": "Aeroporto Internacional Aimé Césaire",
+            "IATA": "FDF"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Panamá",
+            "Localização": "Cidade do Panamá",
+            "Nome": "Aeroporto Internacional Tocumen",
+            "IATA": "PTY"
+        },
+        {
+            "Continente": "América Central",
+            "País": "República Dominicana",
+            "Localização": "Puerto Plata",
+            "Nome": "Aeroporto Internacional General Gregorio Luperón",
+            "IATA": "POP"
+        },
+        {
+            "Continente": "América Central",
+            "País": "República Dominicana",
+            "Localização": "Punta Cana",
+            "Nome": "Aeroporto Internacional de Punta Cana",
+            "IATA": "PUJ"
+        },
+        {
+            "Continente": "América Central",
+            "País": "República Dominicana",
+            "Localização": "Santiago de los Caballeros",
+            "Nome": "Aeroporto Internacional do Cilbao",
+            "IATA": "STI"
+        },
+        {
+            "Continente": "América Central",
+            "País": "República Dominicana",
+            "Localização": "Santo Domingo",
+            "Nome": "Aeroporto Internacional de Las Américas",
+            "IATA": "SDQ"
+        },
+        {
+            "Continente": "América Central",
+            "País": "Trinidad e Tobago",
+            "Localização": "Port of Spain",
+            "Nome": "Aeroporto Internacional de Piarco",
+            "IATA": "POS"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "México",
+            "Localização": "Cidade do México",
+            "Nome": "Aeroporto Internacional Juarez - Cidade do México (MEX)",
+            "IATA": "MEX"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "México",
+            "Localização": "Cancún",
+            "Nome": "Aeroporto Internacional de Cancún - Cancún (CUN)",
+            "IATA": "CUN"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "México",
+            "Localização": "Guadalajara",
+            "Nome": "Aeroporto Internacional de Guadalajara - Guadalajara (GDL)",
+            "IATA": "GDL"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "México",
+            "Localização": "Acapulco",
+            "Nome": "Aeroporto Internacional de Acapulco - Acapulco (ACA)",
+            "IATA": "ACA"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "México",
+            "Localização": "Ciudad Obregón",
+            "Nome": "Aeroporto Internacional de Ciudad Obregón - Ciudad Obregón (CEN)",
+            "IATA": "CEN"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Nova Iorque",
+            "Nome": "Aeroporto Internacional John F. Kennedy - Nova Iorque (JFK)",
+            "IATA": "JFK"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Nova Iorque",
+            "Nome": "Aeroporto de LaGuardia - Nova Iorque (LGA)",
+            "IATA": "LGA"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Newark",
+            "Nome": "Aeroporto Internacional de Newark - Newark (EWR)",
+            "IATA": "EWR"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Boston",
+            "Nome": "Aeroporto Internacional Logan - Boston (BOS)",
+            "IATA": "BOS"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Chicago",
+            "Nome": "Aeroporto Internacional O'Hare - Chicago (ORD)",
+            "IATA": "ORD"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Washington",
+            "Nome": "Aeroporto Internacional Washington Dulles - Washington, DC (IAD)",
+            "IATA": "IAD"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Washington",
+            "Nome": "Aeroporto Ronald Reagan - Washington, DC (DCA)",
+            "IATA": "DCA"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Atlanta",
+            "Nome": "Aeroporto Internacional de Atlanta Hartsfield-Jackson - Atlanta (ATL)",
+            "IATA": "ATL"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Orlando",
+            "Nome": "Aeroporto Internacional de Orlando - Orlando (MCO)",
+            "IATA": "MCO"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Miami",
+            "Nome": "Aeroporto Internacional de Miami - Miami (MIA)",
+            "IATA": "MIA"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Houston",
+            "Nome": "Aeroporto Internacional George Bush - Houston (IAH)",
+            "IATA": "IAH"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Dallas",
+            "Nome": "Aeroporto Internacional de Dallas-Fort Worth - Dallas (DFW)",
+            "IATA": "DFW"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Los Angeles",
+            "Nome": "Aeroporto Internacional de Los Angeles - Los Angeles (LAX)",
+            "IATA": "LAX"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Las Vegas",
+            "Nome": "Aeroporto Internacional McCarran - Las Vegas (LAS)",
+            "IATA": "LAS"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Honolulu",
+            "Nome": "Aeroporto Internacional de Honolulu - Honolulu (HNL)",
+            "IATA": "HNL"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "San Francisco",
+            "Nome": "Aeroporto Internacional de San Francisco - San Francisco (SFO)",
+            "IATA": "SFO"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Seattle",
+            "Nome": "Aeroporto Internacional de Seattle-Tacoma - Seattle (SEA)",
+            "IATA": "SEA"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Denver",
+            "Nome": "Aeroporto Internacional de Denver - Denver (DEN)",
+            "IATA": "DEN"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Detroit",
+            "Nome": "Aeroporto Metropolitano de Detroit Wayne County - Detroit (DTW)",
+            "IATA": "DTW"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Lansing",
+            "Nome": "Aeroporto Internacional de Lansing - Lansing (LAN)",
+            "IATA": "LAN"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Phoenix",
+            "Nome": "Aeroporto Internacional de Sky Harbor - Phoenix (PHX)",
+            "IATA": "PHX"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Chicago",
+            "Nome": "Aeroporto Internacional Midway - Chicago (MDW)",
+            "IATA": "MDW"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Estados Unidos",
+            "Localização": "Salt Lake City",
+            "Nome": "Aeroporto Internacional de Salt Lake City - Salt Lake City (SLC)",
+            "IATA": "SLC"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Canadá",
+            "Localização": "Toronto",
+            "Nome": "Aeroporto Internacional Toronto Pearson - Toronto (YYZ)",
+            "IATA": "YYZ"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Canadá",
+            "Localização": "Montréal",
+            "Nome": "Aeroporto Internacional Montréal-Mirabel - Montreal (YMX)",
+            "IATA": "YMX"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Canadá",
+            "Localização": "Vancouver",
+            "Nome": "Aeroporto Internacional de Vancouver - Vancouver (YVR)",
+            "IATA": "YVR"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Canadá",
+            "Localização": "Quebec",
+            "Nome": "Aeroporto Internacional de Quebec - Quebec (YQB)",
+            "IATA": "YQB"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Canadá",
+            "Localização": "Ottawa",
+            "Nome": "Aeroporto Internacional Ottawa Macdonald-Cartier - Ottawa (YOW)",
+            "IATA": "YOW"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Canadá",
+            "Localização": "Montréal",
+            "Nome": "Aeroporto Internacional Pierre Elliott Trudeau - Montreal (YUL)",
+            "IATA": "YUL"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Canadá",
+            "Localização": "Calgary",
+            "Nome": "Aeroporto Internacional de Calgary (YYC)",
+            "IATA": "YYC"
+        },
+        {
+            "Continente": "América do Norte",
+            "País": "Canadá",
+            "Localização": "Halifax",
+            "Nome": "Aeroporto Internacional de Halifax (YHZ)",
+            "IATA": "YHZ"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "São Paulo",
+            "Nome": "Aeroporto Internacional de São Paulo - Guarulhos (GRU)",
+            "IATA": "GRU"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Brasília",
+            "Nome": "Aeroporto Internacional Juscelino Kubitschek - Lago Sul (BSB)",
+            "IATA": "BSB"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Rio de Janeiro",
+            "Nome": "Aeroporto Internacional Antônio Carlos Jobim - Rio de Janeiro (GIG)",
+            "IATA": "GIG"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Vitória",
+            "Nome": "Aeroporto Internacional Eurico de Aguiar Sales - Vitória (VIX)",
+            "IATA": "VIX"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Salvador",
+            "Nome": "Aeroporto Internacional Luís Eduardo Magalhães - Salvador (SSA)",
+            "IATA": "SSA"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Confins",
+            "Nome": "Aeroporto Internacional Tancredo Neves - Confins (CNF)",
+            "IATA": "CNF"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Fortaleza",
+            "Nome": "Aeroporto Internacional Pinto Martins - Fortaleza (FOR)",
+            "IATA": "FOR"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Manaus ",
+            "Nome": "Aeroporto Internacional Eduardo Gomes - Manaus (MAO)",
+            "IATA": "MAO"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "São Luís",
+            "Nome": "Aeroporto Internacional Marechal Hugo da Cunha Machado - São Luís (SLZ)",
+            "IATA": "SLZ"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Porto Alegre",
+            "Nome": "Aeroporto Internacional Salgado Filho - Porto Alegre (POA)",
+            "IATA": "POA"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Recife",
+            "Nome": "Aeroporto Internacional Gilberto Freyre - Recife (REC)",
+            "IATA": "REC"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Curitiba",
+            "Nome": "Aeroporto Nacional de Curitiba - São José dos Pinhais (CWB)",
+            "IATA": "CWB"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Belém",
+            "Nome": "Aeroporto Internacional Val de Cans - Júlio Cezar Ribeiro - Belém (BEL)",
+            "IATA": "BEL"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Campinas",
+            "Nome": "Aeroporto Internacional de Campinas-Viracopos - Campinas (VCP)",
+            "IATA": "VCP"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Natal",
+            "Nome": "Aeroporto Internacional Governador Aluízio Alves - São Gonçalo do Amarante (NAT)",
+            "IATA": "NAT"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "João Pessoa",
+            "Nome": "Aeroporto Internacional Presidente Castro Pinto - Bayeux(JPA)",
+            "IATA": "JPA"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Florianópolis",
+            "Nome": "Aeroporto Internacional Hercílio Luz - Florianópolis (FLN)",
+            "IATA": "FLN"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Boa Vista",
+            "Nome": "Aeroporto Internacional Atlas Brasil Cantanhede - Boa Vista (BVB)",
+            "IATA": "BVB"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Macapá",
+            "Nome": "Aeroporto Internacional Alberto Alcolumbre - Macapá - (MCP)",
+            "IATA": "MCP"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Porto Velho",
+            "Nome": "Aeroporto Internacional Governador Jorge Teixeira de Oliveira - Porto Velho (PVH)",
+            "IATA": "PVH"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Santarém",
+            "Nome": "Aeroporto Internacional Maestro Wilson Fonseca - Santarém (STM)",
+            "IATA": "STM"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Várzea Grande",
+            "Nome": "Aeroporto Internacional Marechal Rondon - Várzea Grande (CGB)",
+            "IATA": "CBB"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Campo Grande",
+            "Nome": "Aeroporto Internacional de Campo Grande - Campo Grande (CGR)",
+            "IATA": "CGR"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Maceió",
+            "Nome": "Aeroporto Internacional Zumbi dos Palmares - Rio Largo (MCZ)",
+            "IATA": "MCZ"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Foz do Iguaçu",
+            "Nome": "Aeroporto Internacional de Foz do Iguaçu - Foz do Iguaçu (IGU)",
+            "IATA": "IGU"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Cabo Frio",
+            "Nome": "Aeroporto Internacional de Cabo Frio - Cabo Frio (CFB)",
+            "IATA": "CFB"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Cruzeiro do Sul",
+            "Nome": "Aeroporto Internacional de Cruzeiro do Sul - Cruzeiro do Sul (CZS)",
+            "IATA": "CZS"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "São Carlos",
+            "Nome": "Aeroporto Internacional de São Carlos - São Carlos (QSC)",
+            "IATA": "QSC"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Rio Branco",
+            "Nome": "Aeroporto Internacional Plácido de Castro - Rio Branco (RBR)",
+            "IATA": "RBR"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Tabatinga",
+            "Nome": "Aeroporto Internacional de Tabatinga - Tabatinga (TBT)",
+            "IATA": "TBT"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Parnaíba",
+            "Nome": "Aeroporto Internacional de Parnaíba - Parnaíba (PHB)",
+            "IATA": "PHB"
+        },
+        {
+            "Continente": "América do Sul",
+            "País": "Brasil",
+            "Localização": "Goiânia",
+            "Nome": "Aeroporto Internacional de Parnaíba - Parnaíba (PHB)",
+            "IATA": "GYN"
+        }
+    ]
+}
